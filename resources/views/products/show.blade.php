@@ -110,7 +110,7 @@
                         <p>Stock : {{ $product->stock }}</p>
                     </div>
                     <div class="card-footer">
-                        Product Details
+                        Product Details BABI MANTA
                     </div>
                 </div>
             </div>
