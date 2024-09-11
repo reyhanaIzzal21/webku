@@ -106,7 +106,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group mb-3">
-                                        <label class="font-weight-bold">PRICE</label>
+                                        <label class="font-weight-bold">PRICE KEPALA KADAL</label>
                                         <input type="number" class="form-control @error('price') is-invalid @enderror" name="price" value="{{ old('price', $product->price) }}" placeholder="Masukkan Harga Product">
                                     
                                         <!-- error message untuk price -->
